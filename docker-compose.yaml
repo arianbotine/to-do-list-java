@@ -1,5 +1,5 @@
 services:
-  conversor:
+  todolist:
     build:
       context: ./todolist
       dockerfile: Dockerfile
